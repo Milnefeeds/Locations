@@ -1,3 +1,5 @@
+
+
 {
 "type": "FeatureCollection",
 "features": [
@@ -329,7 +331,7 @@
 "max": "20",
 "type": "depot",
 "active": "1",
-"mobile": "0427 478 625",
+"mobile": "0427 470 625",
 "depotid": "13"
 },
 "geometry": {
@@ -346,7 +348,7 @@
 "id": "575",
 "owner": "Mitchell Collins",
 "name": "York Depot",
-"address": "Corner of Badgin Road and Goldfields Road",
+"address": "Corner of Badgin Road and Goldfields Road, Badgin WA 6302",
 "shire": "York",
 "postalcode": "6302",
 "county": "WA",
@@ -1416,7 +1418,7 @@
 "id": "611",
 "owner": "",
 "name": "Goldfields Stockfeeds",
-"address": "128 Dugan Street, Kalgoorlie 6430",
+"address": "2 Federal Rd, Kalgoorlie 6430",
 "shire": "KALGOORLIE",
 "postalcode": "6430",
 "county": "WA",
