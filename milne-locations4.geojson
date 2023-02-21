@@ -269,9 +269,9 @@
 "type": "Feature",
 "properties": {
 "id": "577",
-"owner": "Craig & Donna Tierney",
+"owner": "Rhys Fleay",
 "name": "Moora Bulk Depot",
-"address": "Lot 2 185 Clarke Street, Moora WA 6510",
+"address": "Lot 6 Fergusion RD (Driveway on Dandaragan Rd)",
 "shire": "Moora",
 "postalcode": "6510",
 "county": "WA",
@@ -279,7 +279,7 @@
 "max": "20",
 "type": "depot",
 "active": "1",
-"mobile": "0428 927 662",
+"mobile": "08 9351 0741",
 "depotid": "11"
 },
 "geometry": {
@@ -363,8 +363,8 @@
 "geometry": {
 "type": "Point",
 "coordinates": [
-116.76784,
--31.853664
+117.00939,
+-31.84850
 ]
 }
 },
