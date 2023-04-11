@@ -85,7 +85,7 @@
 "type": "Feature",
 "properties": {
 "id": "576",
-"owner": "Glenn & Julie Marsden",
+"owner": "Glenn, Jamie & Julie Marsden",
 "name": "Dongara Bulk Depot",
 "address": "Lot 60 Bailey Street 6525",
 "shire": "Dongara",
@@ -97,7 +97,9 @@
 "max": "20",
 "type": "depot",
 "active": "1",
-"mobile": "0418 939 443",
+"Jamie mobile": "0427 271 807",
+"Glen mobile":  "0418 939 443",
+"Julie mobile": "0407 094 116",
 "depotid": "10"
 },
 "geometry": {
