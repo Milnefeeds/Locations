@@ -91,14 +91,16 @@
 "shire": "Dongara",
 "postalcode": "6525",
 "county": "WA",
-"fax": "0407 094 116",
+"fax": "",
 "min": "1",
 "max": "20",
 "type": "depot",
 "active": "1",
-"mobile1": "Jamie - 0427 271 807",
-"mobile2": "Glen - 0418 939 443",
-"mobile3": "Julie - 0407 094 116",
+"mobile": [
+         "Jamie - 0427 271 807",
+         "Glen - 0418 939 443",
+         "Julie - 0407 094 116"
+       ]
 "depotid": "10"
 },
 "geometry": {
