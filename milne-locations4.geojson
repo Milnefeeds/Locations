@@ -96,6 +96,7 @@
 "max": "20",
 "type": "depot",
 "active": "1",
+"mobile": "",
 "depotid": "10"
 },
 "geometry": {
