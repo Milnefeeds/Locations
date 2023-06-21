@@ -242,6 +242,31 @@
 {
 "type": "Feature",
 "properties": {
+"id": "567",
+"owner": "Mick & Lynette O'Halloran",
+"name": "Kingston South Australia Depot Bulk Depot",
+"address": "118 Cape Jaffa Road, Kingston South East SA ",
+"shire": "Kingston",
+"postalcode": "5275",
+"county": "SA",
+"min": "1",
+"max": "20",
+"type": "depot",
+"active": "1",
+"mobile": "0408 838 333",
+"depotid": "1"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+139.81894,
+-36.89319
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
 "id": "573",
 "owner": "Peter & Shannon Waters",
 "name": "Kununoppin Bulk Depot",
