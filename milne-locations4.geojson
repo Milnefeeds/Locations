@@ -19,7 +19,7 @@
 "max": "20",
 "type": "depot",
 "active": "1",
-"mobile": "0427 517 222",
+"mobile": "",
 "depotid": "2"
 },
 "geometry": {
@@ -40,12 +40,38 @@
 "shire": "Yornup",
 "postalcode": "6256",
 "county": "WA",
-"phone": "",
+"phone": "08 9761 9099",
 "min": "1",
 "max": "20",
 "type": "depot",
 "active": "1",
 "mobile": "0427 619 099",
+"depotid": "2"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.18352,
+-34.08448
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "672",
+"owner": "Graeme & Lisa Rogers",
+"name": "Broome Bulk Depot",
+"address": "Lot 233 Broome Road, Roebuck 6725",
+"shire": "Broome",
+"postalcode": "6725",
+"county": "WA",
+"phone": "08 9176 4930",
+"min": "1",
+"max": "20",
+"type": "depot",
+"active": "1",
+"mobile": "0429 429 799",
 "depotid": "2"
 },
 "geometry": {
@@ -66,6 +92,7 @@
 "shire": "Bruce Rock",
 "postalcode": "6418",
 "county": "WA",
+"phone": "08 9046 9015",
 "min": "1",
 "max": "20",
 "type": "depot",
@@ -138,19 +165,19 @@
 "type": "Feature",
 "properties": {
 "id": "569",
-"owner": "Scott Liddelow",
+"owner": "Lou Mercer & Craig Solly",
 "name": "Esperance  Bulk Depot",
 "address": "1 Brazier St, Esperance WA 6450",
 "shire": "Esperance",
 "postalcode": "6450",
 "county": "WA",
-"phone": "",
-"fax": "",
+"phone": "08 9071 1020",
+"fax": "Craig - 0483 223 165",
 "min": "1",
 "max": "20",
 "type": "depot",
 "active": "1",
-"mobile": "0427 152 704",
+"mobile": "Lou - 0408 492 395",
 "depotid": "3"
 },
 "geometry": {
@@ -165,18 +192,18 @@
 "type": "Feature",
 "properties": {
 "id": "571",
-"owner": "David Campbell",
+"owner": "Annette Gorman",
 "name": "Jerramungup Bulk Depot",
 "address": "2 Bennett St, Jerramungup WA 6337",
 "shire": "Jerramungup",
 "postalcode": "6337",
 "county": "WA",
-"phone": "",
+"phone": "08 9835 1377",
 "min": "1",
 "max": "20",
 "type": "depot",
 "active": "1",
-"mobile": "0429 119 761",
+"mobile": "",
 "depotid": "5"
 },
 "geometry": {
