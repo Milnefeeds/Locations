@@ -352,12 +352,12 @@
 "shire": "Cuballing",
 "postalcode": "6311",
 "county": "WA",
-"phone": "9351 1739",
+"phone": "08 9351 0739",
 "min": "1",
 "max": "20",
 "type": "depot",
 "active": "1",
-"mobile": "08 9351 0739",
+"mobile": "",
 "depotid": "6"
 },
 "geometry": {
