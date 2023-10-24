@@ -166,7 +166,7 @@
 "id": "569",
 "owner": "Lou Mercer & Craig Solly",
 "name": "Esperance  Bulk Depot",
-"address": "1 Brazier St, Esperance, WA, 6450",
+"address": "80 Brazier St, Esperance, WA, 6450",
 "shire": "Esperance",
 "postalcode": "6450",
 "county": "WA",
@@ -182,8 +182,8 @@
 "geometry": {
 "type": "Point",
 "coordinates": [
-121.90058,
--33.872917
+121.884202,
+-33.852589
 ]
 }
 },
