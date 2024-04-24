@@ -985,29 +985,29 @@
 }
 },
 {
-#"type": "Feature",
-#"properties": {
-#"id": "683",
-#"owner": "",
-#"name": "Donnybrook Farm Service",
-#"address": "Donnybrook Farm Service, Donnybrook, WA, 6239",
-#"shire": "DONNYBROOK",
-#"postalcode": "6239",
-#"county": "WA",
-#"phone": "08 9731 1101",
-#"fax": "",
-#"min": "1",
-#"max": "10",
-#"type": "store",
-#"active": "1",
-#"mobile": "",
-#"depotid": ""
-#},
-#"geometry": {
-#"type": "Point",
-#"coordinates": [
-#115.82329,
-#-33.57097
+"type": "Feature",
+"properties": {
+"id": "683",
+"owner": "",
+"name": "Donnybrook Farm Service",
+"address": "Donnybrook Farm Service, Donnybrook, WA, 6239",
+"shire": "DONNYBROOK",
+"postalcode": "6239",
+"county": "WA",
+"phone": "08 9731 1101",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.82329,
+-33.57097
 ]
 }
 },
